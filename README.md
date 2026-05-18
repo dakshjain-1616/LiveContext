@@ -133,8 +133,8 @@ pip install livecontext
 
 ### From Source
 ```bash
-git clone https://github.com/user/livecontext.git
-cd livecontext
+git clone https://github.com/dakshjain-1616/LiveContext.git
+cd LiveContext
 pip install -e .
 ```
 
@@ -530,8 +530,8 @@ This is expected if conversations are short. Try:
 
 ### Setting Up Dev Environment
 ```bash
-git clone https://github.com/user/livecontext.git
-cd livecontext
+git clone https://github.com/dakshjain-1616/LiveContext.git
+cd LiveContext
 python -m venv venv
 source venv/bin/activate
 pip install -e ".[dev]"
@@ -641,17 +641,17 @@ MIT License - See LICENSE file for details
 If you use LiveContext in research or production, please cite:
 
 ```bibtex
-@software{livecontext2024,
+@software{livecontext2026,
   title={LiveContext: Real-time Streaming Context Window Monitor for LLM Agents},
-  author={NEO MCP Contributors},
-  year={2024},
-  url={https://github.com/user/livecontext}
+  author={Daksh Jain},
+  year={2026},
+  url={https://github.com/dakshjain-1616/LiveContext}
 }
 ```
 
 ---
 
-**🤖 Built with NEO** — Powered by [NEO MCP](https://docs.heyneo.so) for autonomous AI infrastructure development
+**🤖 Built with NEO** — Powered by [NEO](https://heyneo.com), the autonomous AI engineering agent
 
 **Status:** Beta (production-ready, but API may change)  
 **Python:** 3.9+  
